@@ -30,4 +30,3 @@ export default async function migrations(req, res) {
 
   res.status(405).end()
 }
-
